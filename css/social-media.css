@@ -1,0 +1,56 @@
+.social-media{
+    grid-area: social-media;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 20px;
+}
+.youtube{
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 2px solid #ffff;
+    border-radius: 50%;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+.youtube:houver{
+    background-color: #CF09A4;
+}
+.twitter{
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+.twitter:houver{
+    background-color: #CF09A4;
+}
+.instagram{
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+.instagram:houver{
+    background-color: #CF09A4;
+}
+.facebook{
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 2px solid white;
+    box-sizing: border-box;
+    border-radius: 50%;
+    color: white;
+    display: grid;
+    place-items: center; 
+}
+.facebook:houver{
+    background-color: #CF09A4;
+}
