@@ -18,4 +18,4 @@ O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvol
 
 ---
 ## Autor
-- [Oswaldo Barbosa](https://github.com/OswaldBarbosa)
+- [Oswaldo Barbosa](https://www.linkedin.com/in/oswaldo-barbosa-265115242/)
