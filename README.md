@@ -2,7 +2,7 @@
 
 ![](./img/desktop.png)
 
-[Clique aqui](https://oswaldbarbosa.github.io/site-headphone-purple/) para acessar o site
+[Clique aqui](https://oswaldbarbosa.github.io/headphone-purple/) para acessar o site
 
 ---
 ## Sobre
